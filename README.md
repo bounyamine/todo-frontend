@@ -97,4 +97,3 @@ src/
 - Validation côté client
 
 L'interface est entièrement fonctionnelle et prête à être utilisée avec l'API backend.# todo-frontend
-# todo-frontend
